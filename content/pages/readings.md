@@ -118,7 +118,7 @@ Pack, Janet Rothenberg. "BIDs, DIDs, SIDs, and SADs: Private Governments in Urba
 
 Briffault, Richard. "A Government for Our Time? Business Improvement Districts and Urban Governance." _Columbia Law Review_ 99, no. 2 (1999): 365-477.
 
-Mitchell, Jerry. "Business Improvement Districts and Innovative Service Delivery." New York, NY: The PricewaterhouseCoopers Endowment for the Business of Government, 1999. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.businessofgovernment.org/sites/default/files/Mitchell.pdf))
+Mitchell, Jerry. "Business Improvement Districts and Innovative Service Delivery." New York, NY: The PricewaterhouseCoopers Endowment for the Business of Government, 1999. ([PDF](https://www.businessofgovernment.org/sites/default/files/Mitchell.pdf))
 
 ———. "Business Improvement Districts and the 'New' Revitalization of Downtown." _Economic Development Quarterly_ 15 (2001): 115-123.
 
